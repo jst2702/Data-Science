@@ -1,0 +1,3 @@
+The Data Folders was a subset of the kaggle dataset for Cats and Dogs Competition. 
+
+since Each picture in the dataset was a file, It was too big to upload to Github.
